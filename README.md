@@ -10,3 +10,19 @@ The data consists of several reviews, each of which has been labeled with  or , 
 reviews_train.tsv (4000 examples)
 reviews_validation.tsv (500 examples)
 reviews_test.tsv (500 examples)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This repo also includes code written by the course staff.
+
+Status: Completed
