@@ -1,6 +1,3 @@
-# MIT-6.86x
-
-
 PROJECT 1 - AUTOMATIC REVIEW ANALYZER
 Building a classifier that labels reviews as positive or negative using text-based features and the linear classifiers that you implemented in the previous section!
 
